@@ -1,1 +1,1 @@
-# WayNetConverter
+# WayNetConverter with QT GUI
