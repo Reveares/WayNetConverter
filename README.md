@@ -1,6 +1,6 @@
 # WayNetConverter with QT GUI
 
-Dies ist ein Fork vom Originalen WayNetConverter von [Reveares](https://github.com/Reveares/WayNetConverter). Der Originale Converter wurde in Windows über die Kommandozeile bedient, dieser hier kann unter Windows und Linux kompiliert werden und besitzt eine simple GUI welche es euch erlaubt, die Wegnetze aus euren Gothic Zen Datein zu exportieren. 
+Dies ist ein Fork des Originalen WayNetConverter von [Reveares](https://github.com/Reveares/WayNetConverter). Der Originale Converter wurde in Windows über die Kommandozeile bedient, dieser hier kann unter/für Windows und Linux kompiliert werden und besitzt eine simple GUI welche es euch erlaubt, die Wegnetze aus euren Gothic Zen Datein zu exportieren. 
 
 <div align="center">
   
